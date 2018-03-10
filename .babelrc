@@ -1,0 +1,11 @@
+{
+  "presets" : [
+    "env"
+  ],
+ 
+  "parserOpts": {
+    "parser": "babylon"
+  },
+
+  "plugins": ["transform-pipeline-operator"]
+}
