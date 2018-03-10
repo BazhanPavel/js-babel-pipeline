@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "webpack"
+    "start": "webpack && cp ./src/index.html ./dist"
   },
   "name": "III",
   "version": "1.0.0",
